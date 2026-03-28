@@ -2,7 +2,7 @@
 publish: true
 title: Vacuum coffee maker - Wikipedia
 created: 2026-03-22
-modified: 2026-03-28T13:49:34.239+03:00
+modified: 2026-03-28T14:56:29.560+03:00
 tags:
   - clippings
 ---
