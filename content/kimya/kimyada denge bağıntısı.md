@@ -1,6 +1,0 @@
-- denge dinamiktir
-- dengede ileri tepkime hızı geri tepkime hızına eşittir
-- denge tepkimesinde mininum enerji ile maxımum enerji zıt yönlüdür
-- denge derişimi hiç bir zaman 0 olamaz
-- Kc değiştiren tek faktör sıçaklıktır
-- denge tepkimesinden katı ve sıcılar yer almaz gazlar ve suda çözünenler yer alır

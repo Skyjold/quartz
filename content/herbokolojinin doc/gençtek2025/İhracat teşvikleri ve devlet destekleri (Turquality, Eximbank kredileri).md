@@ -1,1 +1,0 @@
-devlet destekleri için bulunmöasuını istediğimiz satır proglamlarını kullanbşliriz
